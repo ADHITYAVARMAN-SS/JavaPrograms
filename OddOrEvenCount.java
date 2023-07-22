@@ -39,7 +39,5 @@ public class OddOrEvenCount {
 			}
 			System.out.print(odd1[i]+" ");
 		}
-		
-//		need to find prime numbers count
 	}
 }
