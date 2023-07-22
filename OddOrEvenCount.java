@@ -1,5 +1,5 @@
 package Training;
-
+// this program checks the count of odd or even in a given string.
 import java.util.Scanner;
 
 public class OddOrEvenCount {
